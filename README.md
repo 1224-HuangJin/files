@@ -11,10 +11,10 @@
 
 #### 📂 内容
 本存储库可能、将包含：
-📜 文档文件
-📷 媒体文件
-📄 代码片段
-🔧 其他资源
+📜 文档文件、
+📷 媒体文件、
+📄 代码片段、
+🔧 其他资源、
 
 ### 📜 许可证
 本项目遵循 MIT 许可证，详情请参阅 [LICENSE](https://github.com/1224-HuangJin/files?tab=License-2-ov-file)。
@@ -30,10 +30,10 @@ Welcome to the files repository! Here I store various files, resources and docum
 ## 📂 Contents
 This repository may and will contain:
 
-📜 Document files
-📷 Media files
-📄 Code snippets
-🔧 Other resources
+📜 Document files, 
+📷 Media files, 
+📄 Code snippets, 
+🔧 Other resources, 
 
 📜 License
 This project follows the MIT license, please refer to [LICENSE](https://github.com/1224-HuangJin/files?tab=MIT-1-ov-file) for details.
