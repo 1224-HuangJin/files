@@ -1,4 +1,5 @@
-中文 | Enligsh
+# About:
+[中文](https://github.com/1224-HuangJin/files?tab=readme-ov-file#%E4%B8%AD%E6%96%87) | [Enligsh](https://github.com/1224-HuangJin/files?tab=readme-ov-file#-my-files-repository)
 
 # 中文
 ## 📁 Files 仓库
